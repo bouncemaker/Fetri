@@ -2,6 +2,6 @@
 "name": "FETRI POOL",
 "description": "A cardano staking pool that brings awareness to kidney failure",
 "ticker": "FETRI",
-"homepage": "https://fetri-pool.com"
+"homepage": "https://fetri-pool.com",
 "extended": "https://fetri-pool.com/Json/ExtendedMetadata"
 }
